@@ -1,6 +1,4 @@
 # 주개사, 아키텍처 || 시스템디자인 스터디 아젠다.
-## A. 아키텍처 or 시스템 디자인이란?
-- https://www.interviewbit.com/system-design-interview-questions/
 
 ## B. Phase 1.
 책으로 스터디를 진행합니다. 매주 공부한 부분을 발표(or 라이트닝 토크)하며 진행합니다. 아키텍처 or 시스템디자인을 주제로 합니다.
