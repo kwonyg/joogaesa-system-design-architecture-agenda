@@ -8,14 +8,14 @@
 - `Phase 1.` 은 팀원 논의 후 공개 or 비공개로 진행.
 - 참가자는 스터디 아젠다 공유일 기준, 수년간 믿음과 신뢰와 배신(?)으로 다져진 [주개사 멤버](https://github.com/official-joogaesa)들로만 4~8명으로 구성.
 - 책 선택은 자신이 원하는 책을 선택하면 됩니다. 현재 추천받은 책들은 같으며, 다른 책도 가능. (추천책 알려주셔요)
-    - 클린아키텍처
-    - 쏙쏙들어오는 함수형 코딩
-    - 만들면서배우는 클린아키텍처
-    - 가상사례로 어쩌구하는 면접책
-    - 개발자에서 아키텍트로
-    - 데이터 중심 애플리케이션 설계
-    - 쿠버네티스 패턴
-    - 사이트 신뢰성 엔지니어링
+    - [클린아키텍처](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966262472&orderClick=LAG&Kc=)
+    - [쏙쏙들어오는 함수형 코딩](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791191600759&orderClick=LAG&Kc=)
+    - [만들면서배우는 클린아키텍처](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791158392758&orderClick=LAG&Kc=)
+    - [가상사례로 어쩌구하는 면접책](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966263158&orderClick=LAG&Kc=)
+    - [개발자에서 아키텍트로](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162244326&orderClick=LAG&Kc=)
+    - [데이터 중심 애플리케이션 설계](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791158390983&orderClick=LAG&Kc=)
+    - [쿠버네티스 패턴](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791189909123&orderClick=LAG&Kc=)
+    - [사이트 신뢰성 엔지니어링](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791188621088&orderClick=LAG&Kc=)
 
 
 
